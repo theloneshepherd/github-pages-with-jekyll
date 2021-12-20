@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "baseurl:"
 twitter_username: N/A
 github_username:  theloneshepherd
 
-them: minima
+theme: minima
 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
